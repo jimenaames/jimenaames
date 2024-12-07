@@ -35,7 +35,7 @@ I’m a Computer Science student passionate about solving real-world problems th
 
 - Selected as one of 10 students to represent George Mason University at the **Grace Hopper Conference**.  
 - Honored with scholarships for a fully-funded international study experience.  
-- Working on AI-powered solutions that improve efficiency and reduce downtime in industrial settings.  
+- Worked on an AI-powered solutions that improve efficiency and reduce downtime in industrial settings which can be found [here](https://github.com/c444roline/dxc-ai-maintenance-assistant/tree/main) 
 
 ---
 

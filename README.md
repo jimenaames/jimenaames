@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ˚✧₊⁎ **Jimena Ames** ⁎⁺˳✧༚!  
+# 👋 Hi, I’m ˚✧₊⁎**Jimena**⁎⁺˳✧༚!   
 
 🌟 **Latina in Tech | Aspiring Software Engineer | Advocate for Inclusion in Technology**
 

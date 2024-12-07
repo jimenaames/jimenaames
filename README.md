@@ -46,6 +46,6 @@ I’m committed to excelling as a technologist and creating a more inclusive tec
 ---
 
 📫 **Let’s Connect!**  
-- **LinkedIn**: [www.linkedin.com/in/jimenaames/](#)  
+- **LinkedIn**: [www.linkedin.com/jimenaames/](https://www.linkedin.com/in/jimenaames/)  
 
 ---

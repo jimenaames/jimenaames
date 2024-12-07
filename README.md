@@ -6,9 +6,9 @@
 
 ### 💻 About Me  
 
-I’m a Computer Science student passionate about solving real-world problems through innovative technologies. My journey into tech was inspired by a desire to embrace challenges, celebrate my identity, and create inclusive solutions that serve everyone.  
+I’m a Computer Science student passionate about solving real-world problems through innovative technologies. My tech journey was inspired by a desire to embrace challenges, celebrate my identity, and create inclusive solutions that serve everyone.  
 
-- Currently: AI Studio Fellow at DXC Technology, developing an AI-driven maintenance assistant to enhance operational performance.  
+- Currently: AI Studio Fellow at DXC Technology that just developed an AI-driven maintenance assistant to enhance operational performance! (more details in my latest linked-in post)  
 - Academic Journey: From switching to Computer Science early in college to excelling in my degree, I’m on track to graduate on time with a strong academic record.  
 - Study Abroad: Explored Europe’s artistic and cultural richness while studying at Ghent University and refining my communication skills.  
 - AI & Data Science: Completed the Break Through Tech AI Virtual Program from Cornell University.  
@@ -49,9 +49,3 @@ I’m committed to excelling as a technologist and creating a more inclusive tec
 - **LinkedIn**: [www.linkedin.com/in/jimenaames/](#)  
 
 ---
-
-✨ “Be the representation you wish you had.”  
-
----
-
-Feel free to copy-paste this into your `README.md` file for your GitHub profile and adjust any links or details!

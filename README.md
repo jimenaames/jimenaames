@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m **Jimena Ames**!  
+# 👋 Hi, I’m ˚✧₊⁎ **Jimena Ames** ⁎⁺˳✧༚!  
 
 🌟 **Latina in Tech | Aspiring Software Engineer | Advocate for Inclusion in Technology**
 
@@ -25,17 +25,17 @@ I’m a Computer Science student passionate about solving real-world problems th
 
 ### 🎤 Beyond Tech  
 
-- 🎨 **Artist at Heart**: I love charcoal drawing and analyzing music.  
-- 🌍 **Global Explorer**: Studying abroad enriched my perspectives and inspired my creativity.  
-- 💬 **Community Advocate**: Engaged in initiatives and clubs to represent and uplift underrepresented communities in tech.  
+- **Artist at Heart**: I love charcoal drawing and analyzing music.  
+- **Global Explorer**: Studying abroad enriched my perspectives and inspired my creativity.  
+- **Community Advocate**: Engaged in initiatives and clubs to represent and uplift underrepresented communities in tech.  
 
 ---
 
 ### 🚀 Recent Highlights  
 
-- 👩‍💻 Selected as one of 10 students to represent George Mason University at the **Grace Hopper Conference**.  
-- 📚 Honored with scholarships for a fully-funded international study experience.  
-- 🌟 Working on AI-powered solutions that improve efficiency and reduce downtime in industrial settings.  
+- Selected as one of 10 students to represent George Mason University at the **Grace Hopper Conference**.  
+- Honored with scholarships for a fully-funded international study experience.  
+- Working on AI-powered solutions that improve efficiency and reduce downtime in industrial settings.  
 
 ---
 
